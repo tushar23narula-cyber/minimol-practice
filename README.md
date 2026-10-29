@@ -8,3 +8,6 @@ Learning Git and GitHub.
 
 ## Project
 Our hackathon project goes here.
+
+## Homepage
+Building our second feature on a separate branch.
