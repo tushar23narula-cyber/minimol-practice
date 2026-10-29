@@ -8,3 +8,6 @@ Learning Git and GitHub.
 
 ## Project
 Our hackathon project goes here.
+
+## Dashboard
+I don't know what goes in dashboard.
