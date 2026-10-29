@@ -10,4 +10,4 @@ Learning Git and GitHub.
 Our hackathon project goes here.
 
 ## Homepage
-Building our first feature on a separate branch.
+Building our second feature on a separate branch.
